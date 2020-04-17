@@ -1,0 +1,7 @@
+2020-03-23 use logger completely to log to a external file
+2020-03-23 auto save the log file with file names incrementally, like syslog files
+2020-04-01 read Ansible doc, itr1
+2020-04-08 ansibleize nextcloud for stokr
+2020-04-08 ansabalize email server for stokr
+2020-04-08 ansibleize nextcloud for personal
+2020-04-08 ansabalize email server for personal

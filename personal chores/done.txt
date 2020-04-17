@@ -1,0 +1,12 @@
+x 2020-03-29 2020-03-28 create medium account using your self hosted emailid
+x 2020-04-05 2020-03-28 create github account using the personal email id used for medium and post the terra/ansi config to github
+x 2020-04-06 2020-04-06 push ansible boilerplatecode
+x 2020-04-13 2020-04-09 upload code to gist
+x 2020-04-13 2020-04-09 add gist code snippets to the blog
+x 2020-04-14 2020-04-09 write on different parts of the code code snippets, (spit the code snippets if necessary)
+x 2020-04-14 2020-04-08 readup on how to edit medium editing concepts
+x 2020-04-14 2020-04-14 test and fix the boilerplate repo
+x 2020-04-14 2020-04-14 upload the working version of the ansible-kvm install
+x 2020-04-15 2020-04-09 add your personal touch (your own mean sense of humer), but keep it humble bcos we are nt there yet to have interesting opinions.
+x 2020-04-16 2020-04-05 write about ansible install of kvm untill creating virst_pool
+x 2020-04-17 2020-04-17 kick start the next artical, select the blogc titel etc,. ground work set up.
