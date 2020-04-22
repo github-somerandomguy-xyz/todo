@@ -1,4 +1,4 @@
-2020-04-19 write ground work for blog post ansible-terraform
+2020-04-20 do ground work for the ansible-terraform blog on medium site(gists, github, formating etc,.).
 2020-04-19 fix typos and reduce cringe in blog post ansible-kvm
 2020-04-17 write about whatever is current status of terra nd ansable code in comp.
 2020-03-28 write about whatever is current status of terra nd ansable code in comp(install and config routed network vm with cloud-init linux image).
