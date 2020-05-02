@@ -15,3 +15,10 @@ x 2020-04-20 2020-04-19 write ground work for blog post ansible-terraform
 x 2020-04-23 2020-04-19 fix typos and reduce cringe in blog post ansible-kvm
 x 2020-04-25 2020-04-20 do ground work for the ansible-terraform blog on medium site(gists, github, formating etc,.).
 x 2020-04-27 2020-04-27 polish post terrafform for posting itr0, 3 pomodoros
+x 2020-05-02 2020-05-02 start reading 4m top to bottom, and quckly fix things (including gist, code update, formating etc,.) itr0.
+x 2020-05-02 2020-05-02 start reading 4m top to bottom, and quckly fix things (including gist, code update, formating etc,.) itr1.
+x 2020-05-02 2020-05-02 start reading 4m top to bottom, and quckly fix things (including gist, code update, formating etc,.) itr2.
+x 2020-05-02 2020-04-25 add souce code for terraform-libvirt blog post
+x 2020-05-02 2020-04-25 add gist to post again and do final formating(with links etc,.) on the post
+x 2020-05-02 2020-04-25 proof reading the post and publis the post.
+x 2020-05-02 2020-04-17 write about whatever is current status of terra nd ansable code in comp.
