@@ -14,3 +14,4 @@ x 2020-04-18 2020-04-18 setup nomachine infra on laptops
 x 2020-04-20 2020-04-19 write ground work for blog post ansible-terraform
 x 2020-04-23 2020-04-19 fix typos and reduce cringe in blog post ansible-kvm
 x 2020-04-25 2020-04-20 do ground work for the ansible-terraform blog on medium site(gists, github, formating etc,.).
+x 2020-04-27 2020-04-27 polish post terrafform for posting itr0, 3 pomodoros

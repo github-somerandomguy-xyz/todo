@@ -3,3 +3,5 @@ sicos-stokr/*
 */done.txt~
 personal-chores/done.txt~
 personal-chores/todo.txt~
+._sync*
+.sync*

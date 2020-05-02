@@ -1,3 +1,6 @@
+2020-05-02 start reading 4m top to bottom, and quckly fix things (including gist, code update, formating etc,.) itr0.
+2020-05-02 start reading 4m top to bottom, and quckly fix things (including gist, code update, formating etc,.) itr1.
+2020-05-02 start reading 4m top to bottom, and quckly fix things (including gist, code update, formating etc,.) itr2.
 2020-04-25 add souce code for terraform-libvirt blog post
 2020-04-25 add gist to post again and do final formating(with links etc,.) on the post
 2020-04-25 proof reading the post and publis the post.
