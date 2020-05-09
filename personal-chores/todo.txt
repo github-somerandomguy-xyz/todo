@@ -1,7 +1,3 @@
-2020-05-06 brain storm on what tech blog to write next(make draft-draft on medium )
-2020-05-05 kick start next blog post probably jenkins or nodejs(on api-gateway, maybe).
-2020-05-06 listen to atleast one recording.
-2020-05-06 make a new recording.
 2020-03-28 write about whatever is current status of terra nd ansable code in comp(install and config routed network vm with cloud-init linux image).
 2020-03-28 write about whatever done on jenkins for comp
 2020-03-28 reapply for tax number, incude sad story of your situation (carona discount in pay)

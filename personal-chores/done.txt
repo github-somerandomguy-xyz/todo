@@ -22,3 +22,9 @@ x 2020-05-02 2020-04-25 add souce code for terraform-libvirt blog post
 x 2020-05-02 2020-04-25 add gist to post again and do final formating(with links etc,.) on the post
 x 2020-05-02 2020-04-25 proof reading the post and publis the post.
 x 2020-05-02 2020-04-17 write about whatever is current status of terra nd ansable code in comp.
+x 2020-05-06 2020-05-06 listen to atleast one recording.
+x 2020-05-07 2020-05-07 (postmortom uppdate, (adding after task is done)):listen to weed /bedtime(self talk) recordings.
+x 2020-05-09 2020-05-08 make a new recording.
+x 2020-05-09 2020-05-06 make a new recording.
+x 2020-05-09 2020-05-06 brain storm on what tech blog to write next(make draft-draft on medium )
+x 2020-05-09 2020-05-05 kick start next blog post probably jenkins or nodejs(on api-gateway, maybe).
