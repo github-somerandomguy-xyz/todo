@@ -1,3 +1,4 @@
+2020-05-27 get the paper-work done for freelancer gigs.
 2020-03-23 use logger completely to log to a external file
 2020-03-23 auto save the log file with file names incrementally, like syslog files
 2020-04-01 read Ansible doc, itr1

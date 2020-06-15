@@ -28,3 +28,7 @@ x 2020-05-09 2020-05-08 make a new recording.
 x 2020-05-09 2020-05-06 make a new recording.
 x 2020-05-09 2020-05-06 brain storm on what tech blog to write next(make draft-draft on medium )
 x 2020-05-09 2020-05-05 kick start next blog post probably jenkins or nodejs(on api-gateway, maybe).
+x 2020-05-29 2020-05-09 do weed recording itr1
+x 2020-06-06 2020-06-06 reply to comments on reddit.
+x 2020-06-09 2020-06-06 buy weed.
+x 2020-06-15 2020-05-09 itro of 3 pomodoros for the jenkins-dockerswarm post.
