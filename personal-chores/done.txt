@@ -32,3 +32,4 @@ x 2020-05-29 2020-05-09 do weed recording itr1
 x 2020-06-06 2020-06-06 reply to comments on reddit.
 x 2020-06-09 2020-06-06 buy weed.
 x 2020-06-15 2020-05-09 itro of 3 pomodoros for the jenkins-dockerswarm post.
+x 2020-06-18 2020-06-15 itr1 of 3 pomodoros for the jenkins-install post.
