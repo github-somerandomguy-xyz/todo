@@ -1,3 +1,7 @@
+2020-07-08 fix name in interaative brockers
+2020-07-09 setup taxumber use cases, itr0 (dev a check list)
+2020-07-16 nebulizer for father.
+2020-07-16 reply to house.
 2020-06-19 install Jenkins itr2,3 pomodoro.
 2020-03-28 write about whatever is current status of terra nd ansable code in comp(install and config routed network vm with cloud-init linux image).
 2020-03-28 write about whatever done on jenkins for comp
