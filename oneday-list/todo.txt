@@ -1,4 +1,0 @@
-2020-08-17 alpha: freelance account opening in websites.
-2020-08-17 beta: test issurance
-2020-08-17 beta: reinit jenkins
-2020-08-17 omega: research transfer email server from digitalOcean
