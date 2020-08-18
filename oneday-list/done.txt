@@ -4,3 +4,6 @@ x 2020-08-14 2020-08-13 alpha: collect atleast 3 contacts for freelancing gigs.
 x 2020-08-17 2020-08-14 beta: self grooming :-)
 x 2020-08-17 2020-08-14 alpha: start eth mining itr0
 x 2020-08-17 2020-08-14 omega: perfect execute (host) B-day party.
+x 2020-08-18 2020-08-17 alpha: write task item for UrbanAgri project
+x 2020-08-18 2020-08-17 beta: prep tech questions for greenwallet clients meeting
+x 2020-08-18 2020-08-17 omega: buy required utily item (hair trimmer, cycle repair tools, cbd hemp)
