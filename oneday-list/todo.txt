@@ -1,3 +1,3 @@
-2020-08-18 alpha: write wishlist item for growing lione's main mashurooms at home.
-2020-08-18 beta: jenkins deploy FE item(atleast 1) in prod
-2020-08-18 omega: German 50 items (excercise Qs in each lessons (range 10-40))
+2020-08-19 alpha: 12:30 :  workspace 3: duedeligence make Lions maine growth shopping list
+2020-08-19 beta: 10:00-12:00--14:00-17:00: deploy item in prod using jenkins.
+2020-08-19 omega: 17:30 : workspace-1 :gather facts to migrate email server.
