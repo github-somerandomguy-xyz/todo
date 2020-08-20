@@ -3,6 +3,7 @@
 2020-08-17 beta: reinit jenkins
 2020-08-17 omega: research transfer email server from digitalOcean
 2020-08-18 beta: jenkins deploy FE item(atleast 1) in prod
+2020-08-19 beta: 10:00-12:00--14:00-17:00: deploy item in prod using jenkins.
 gather facts/ all data required to start writting the incident report on the last disk crash fuk up in the prod server.
 research and find process the tutorial/steps to migrate "mailinthebox" server to Hertzner.
 #####freelancing: 

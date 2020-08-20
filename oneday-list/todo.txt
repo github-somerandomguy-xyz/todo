@@ -1,3 +1,1 @@
-2020-08-19 alpha: 12:30 :  workspace 3: duedeligence make Lions maine growth shopping list
-2020-08-19 beta: 10:00-12:00--14:00-17:00: deploy item in prod using jenkins.
-2020-08-19 omega: 17:30 : workspace-1 :gather facts to migrate email server.
+
