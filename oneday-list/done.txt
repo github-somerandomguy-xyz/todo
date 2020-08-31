@@ -12,3 +12,6 @@ x 2020-08-19 2020-08-18 omega: German 50 items (excercise Qs in each lessons (ra
 x 2020-08-19 2020-08-18 omega: German 50 items (excercise Qs in each lessons (range 10-40))
 x 2020-08-20 2020-08-19 alpha: 12:30 :  workspace 3: duedeligence make Lions maine growth shopping list
 x 2020-08-20 2020-08-19 omega: 17:30 : workspace-1 :gather facts to migrate email server.
+x 2020-08-31 2020-08-28 alpha: 14:00 : away from table :send email to a driving school
+x 2020-08-31 2020-08-28 beta: 13:00, 21:00 :  in house : introduce eventdb to dockerswarm
+x 2020-08-31 2020-08-28 omega: 19:30: outside home : write first sentence in omega
