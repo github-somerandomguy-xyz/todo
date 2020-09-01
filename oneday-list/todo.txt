@@ -1,3 +1,3 @@
-2020-08-31 alpha:  13:00 :in coffee shop:get links for gumball proj 30 mins
-2020-08-31 beta: 10:00-12:00--15:00-17:00: homeoffice :setup required galla for eventdb on swarm
-2020-08-31 omega: 17:30: away from work desk  :use celcious app
+2020-09-01 alpha: 13:00: in coffee shop: send msg to somebody on the glumball project.
+2020-09-01 beta: 10:00-12:00--14:00-17:00 : home office.
+2020-09-01 omega: 17:30: away from work desk:use celcious app
