@@ -1,3 +1,3 @@
-2020-09-03 alpha: 13:00: coffee shop: tell some1 about gumball proj
-2020-09-03 beta (savejaabs): 10:30-12:00--14:30-16:30: homeoffice
-2020-09-03 omega: 17:30 :away from desk: use celcious app.
+2020-09-04 alpha: before 15:00 :introduce someone in gov sector about your gumball.
+2020-09-04 beta(savejaabs): before 17:00: admin task(reset/backup/check on prod backups etc,.) docker swarm nodes on staging and *readonly* on *prod*.
+2020-09-04 omega: before 19:00 : buy rewarding supplies for nxt week.

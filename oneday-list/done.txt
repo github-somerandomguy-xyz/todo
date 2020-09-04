@@ -17,3 +17,5 @@ x 2020-08-31 2020-08-28 beta: 13:00, 21:00 :  in house : introduce eventdb to do
 x 2020-08-31 2020-08-28 omega: 19:30: outside home : write first sentence in omega
 x 2020-09-01 2020-08-31 alpha:  13:00 :in coffee shop:get links for gumball proj 30 mins
 x 2020-09-01 2020-08-31 beta: 10:00-12:00--15:00-17:00: homeoffice :setup required galla for eventdb on swarm
+x 2020-09-04 2020-09-03 alpha: 13:00: coffee shop: tell some1 about gumball proj
+x 2020-09-04 2020-09-03 omega: 17:30 :away from desk: use celcious app.
