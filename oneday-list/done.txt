@@ -19,3 +19,4 @@ x 2020-09-01 2020-08-31 alpha:  13:00 :in coffee shop:get links for gumball proj
 x 2020-09-01 2020-08-31 beta: 10:00-12:00--15:00-17:00: homeoffice :setup required galla for eventdb on swarm
 x 2020-09-04 2020-09-03 alpha: 13:00: coffee shop: tell some1 about gumball proj
 x 2020-09-04 2020-09-03 omega: 17:30 :away from desk: use celcious app.
+x 2020-09-06 2020-09-04 omega: before 19:00 : buy rewarding supplies for nxt week.
