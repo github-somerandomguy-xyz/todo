@@ -1,3 +1,3 @@
-2020-09-07 apha: 13:00-14:00: coffee shop: collect contact gov agency
-2020-09-07 beta: 10:00-12:00--15:00-17:00: homeoffice: Infra as code, terraform beak wet and start ansable play docker swarm init
-2020-09-07 omega: 17:30-18:30 :shopping list prep for stage 2 mushrooms.
+2020-09-08 alpha: 13:30: away from desk: collect a new contact, for gumball proj.
+2020-09-08 beta: 10:30-12:30--15:00-17:00: use ansable script to setup docker swarm, itr0.
+2020-09-08 omega: 19:00: big picture task list, itr0.
