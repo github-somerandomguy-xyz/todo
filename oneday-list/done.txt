@@ -21,3 +21,4 @@ x 2020-09-04 2020-09-03 alpha: 13:00: coffee shop: tell some1 about gumball proj
 x 2020-09-04 2020-09-03 omega: 17:30 :away from desk: use celcious app.
 x 2020-09-06 2020-09-04 omega: before 19:00 : buy rewarding supplies for nxt week.
 x 2020-09-07 2020-09-06 omega: 14:00 - buy batteries for ecig.
+x 2020-09-09 2020-09-08 omega: 19:00: big picture task list, itr0.
