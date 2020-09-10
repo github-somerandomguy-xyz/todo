@@ -22,3 +22,5 @@ x 2020-09-04 2020-09-03 omega: 17:30 :away from desk: use celcious app.
 x 2020-09-06 2020-09-04 omega: before 19:00 : buy rewarding supplies for nxt week.
 x 2020-09-07 2020-09-06 omega: 14:00 - buy batteries for ecig.
 x 2020-09-09 2020-09-08 omega: 19:00: big picture task list, itr0.
+x 2020-09-10 2020-09-09 alpha: 13:30: anywhere: reply to the email fo the consultant.
+x 2020-09-10 2020-09-09 beta: 10:30-12:00-15:00-17:00: homeoffice or officeoffice: run the ansiable script, full ass, itr0
