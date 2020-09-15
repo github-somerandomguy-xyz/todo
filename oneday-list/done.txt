@@ -27,3 +27,5 @@ x 2020-09-10 2020-09-09 beta: 10:30-12:00-15:00-17:00: homeoffice or officeoffic
 x 2020-09-11 2020-09-10 alpha:13:00: away from work desk: email to car DL school.
 x 2020-09-11 2020-09-10 beta: 10:30-12:00-15:00-17:00: work desk: ansable scripts, full ass, itr1
 x 2020-09-14 2020-09-13 alpha: 13:30 :AFD : send emails for alpha tasks(Car DL(CDL), company regestration (CR)).
+x 2020-09-15 2020-09-14 alpha:AFD:14:00: google seach and save links for licening for farming, itr0.
+x 2020-09-15 2020-09-14 beta(savejaabs):10:00-13:00-15:00-17:00: resolve dev tasks.
