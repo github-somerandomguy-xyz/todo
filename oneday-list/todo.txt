@@ -1,3 +1,3 @@
-2020-09-20 alpha:14:00  :AFD :take actions on the links collected. 5 itrs.  itr2
-2020-09-20 beta(clean up act): 10:00-13:00--15:30-18:30: WD :documentations, incident report, etc,. cleanup.
-2020-09-20 omega: 19:30: WD :shopping list research.
+2020-09-28 alpha:WB(white board): karma-balance task-list: write tasks with weights on board
+2020-09-28 beta:WG(workGetaup) : save jaabs:  high priprity tasks (given 2).
+2020-09-28 omega:AFD: LTB(livethebook): record something.
