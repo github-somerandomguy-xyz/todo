@@ -32,3 +32,4 @@ x 2020-09-15 2020-09-14 beta(savejaabs):10:00-13:00-15:00-17:00: resolve dev tas
 x 2020-09-16 2020-09-15 omega: 19:30: AW(AnyWhere):  taste/touch/see/smell/hear mushrooms.
 x 2020-09-16 2020-09-15 beta: 10:00-13:00--16:00-18:00: WD: resolve ansiable-dockerswarm on dev servers.
 x 2020-09-16 2020-09-15 alpha: 14:00: AFD:take actions on the links collected.
+x 2020-09-20 2020-09-16 alpha: 14:00: AFD:take actions on the links collected. 5 itrs.  itr1
