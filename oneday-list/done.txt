@@ -33,3 +33,6 @@ x 2020-09-16 2020-09-15 omega: 19:30: AW(AnyWhere):  taste/touch/see/smell/hear 
 x 2020-09-16 2020-09-15 beta: 10:00-13:00--16:00-18:00: WD: resolve ansiable-dockerswarm on dev servers.
 x 2020-09-16 2020-09-15 alpha: 14:00: AFD:take actions on the links collected.
 x 2020-09-20 2020-09-16 alpha: 14:00: AFD:take actions on the links collected. 5 itrs.  itr1
+x 2020-09-29 2020-09-28 alpha:WB(white board): karma-balance task-list itr0: write tasks with weights on board
+x 2020-09-29 2020-09-28 beta:WG(workGetaup) : save jaabs:  high priprity tasks (given 2).
+x 2020-09-29 2020-09-28 omega:AFD: LTB(livethebook): record something.

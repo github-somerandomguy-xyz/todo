@@ -1,3 +1,3 @@
-2020-09-28 alpha:WB(white board): karma-balance task-list: write tasks with weights on board
-2020-09-28 beta:WG(workGetaup) : save jaabs:  high priprity tasks (given 2).
-2020-09-28 omega:AFD: LTB(livethebook): record something.
+2020-09-29 alpha:WB(white board): karma-balance task-list -itr1:  finalize numbers in weights for karma
+2020-09-30 beta:WG(workGetaup) : Devops-certification: setup learning env
+2020-09-30 omega: clean env: rm unnecerry stuff from room.
