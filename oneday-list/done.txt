@@ -39,3 +39,6 @@ x 2020-09-29 2020-09-28 omega:AFD: LTB(livethebook): record something.
 x 2020-09-30 2020-09-29 alpha:WB(white board): karma-balance task-list -itr1:  finalize numbers in weights for karma [wrote more rules for kama book, and assigned points to the top level action points]
 x 2020-09-30 2020-09-30 beta:WG(workGetaup) : Devops-certification: setup learning env:itr0 [setup dev env to write to test and complete the wiki documentation on disk cancer, a task  should really learn, all this disk restore and what's up with the disks general knowled on this topic]
 x 2020-09-30 2020-09-30 omega: clean env: rm unnecerry stuff from room.[vacumed room and threw away garbage]
+x 2020-10-05 2020-09-30 alpha: lotus-couch-chairsForfootrest:set benchmark record for reviewmode max:  do review on intermediate
+x 2020-10-05 2020-09-30 beta:WG(workGetaup) : Devops-certification: setup learning env:itr1
+x 2020-10-05 2020-09-30 omega: clean env: deal with kitchen cooking situation
