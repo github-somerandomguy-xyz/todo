@@ -42,3 +42,5 @@ x 2020-09-30 2020-09-30 omega: clean env: rm unnecerry stuff from room.[vacumed 
 x 2020-10-05 2020-09-30 alpha: lotus-couch-chairsForfootrest:set benchmark record for reviewmode max:  do review on intermediate
 x 2020-10-05 2020-09-30 beta:WG(workGetaup) : Devops-certification: setup learning env:itr1
 x 2020-10-05 2020-09-30 omega: clean env: deal with kitchen cooking situation
+x 2020-10-06 2020-10-05 alpha:German:AFD: meet/beat German revision, beakitdownifrequired: diduntilsatisfactory
+x 2020-10-06 2020-10-05 beta: n26:finalize freelane account, meet and greet 1st road block: canthavtwoaccounts-askedcustomersupporttodeletetheoldone-willtake12days-revisitlaters
