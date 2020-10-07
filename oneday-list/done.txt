@@ -44,3 +44,6 @@ x 2020-10-05 2020-09-30 beta:WG(workGetaup) : Devops-certification: setup learni
 x 2020-10-05 2020-09-30 omega: clean env: deal with kitchen cooking situation
 x 2020-10-06 2020-10-05 alpha:German:AFD: meet/beat German revision, beakitdownifrequired: diduntilsatisfactory
 x 2020-10-06 2020-10-05 beta: n26:finalize freelane account, meet and greet 1st road block: canthavtwoaccounts-askedcustomersupporttodeletetheoldone-willtake12days-revisitlaters
+x 2020-10-07 2020-10-06 Alpha:German:AFD: meet/beat German revision, beakitdownifrequired: itr 1/4:doneAtAboveflowzoneToDevelopStaminaForTheRequiredFlowZone.
+x 2020-10-07 2020-10-06 Beta :beta 1: search/apply/duedelegence freelance jobs in Angelist: itr 0:updatedProfileNeedToMoveTaskToBeforeNoonNeedWorkTimeSoberFocus.
+x 2020-10-07 2020-10-06 Omega:dental:AFD: send msg to a dentist clinic:atmt 0-1:RequestedToMakeAnAppointment
