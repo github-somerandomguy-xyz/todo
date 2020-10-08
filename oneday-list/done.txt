@@ -47,3 +47,6 @@ x 2020-10-06 2020-10-05 beta: n26:finalize freelane account, meet and greet 1st 
 x 2020-10-07 2020-10-06 Alpha:German:AFD: meet/beat German revision, beakitdownifrequired: itr 1/4:doneAtAboveflowzoneToDevelopStaminaForTheRequiredFlowZone.
 x 2020-10-07 2020-10-06 Beta :beta 1: search/apply/duedelegence freelance jobs in Angelist: itr 0:updatedProfileNeedToMoveTaskToBeforeNoonNeedWorkTimeSoberFocus.
 x 2020-10-07 2020-10-06 Omega:dental:AFD: send msg to a dentist clinic:atmt 0-1:RequestedToMakeAnAppointment
+2020-10-08 2020-10-07 Alpha:German:17:00:AFD: meet/beat German revision, beakitdownifrequired: itr 2/4:diduntilsatisfactory
+2020-10-08 2020-10-06 Beta :beta 1: search/apply/duedelegence freelance jobs in Any Job Sites: itr 1/4:updatedProfileNeedToMoveTaskToBeforeNoonNeedWorkTimeSoberFocusAndSouldDoOnWorkLaptop
+2020-10-08 2020-10-06 Omega:minimalizm/wisdom:AFD:read Nani's Medium posts on finance matters.:niceArticalsShouldLearnHiswrittingStyleCouldBeEasyAndCouldAddMyOwnFlavorToTurnItToOriginalContent
