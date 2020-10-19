@@ -5,4 +5,8 @@
 - 18.10.2020:
     - alpha:0.25
     - beta: 0.5
-    - omega: 0.5   
+    - omega: 0.5
+- 19:10:2020:
+    - aplha: 0.3 // did 1 lesson
+    - beta: 0.25 // tried and read docs. couldn't proceed due to workspace reasons (moving laptop data, no poit to set up local env, and firebase does not auth when running from a workspace on a remote server (auth verification runs on localhost shit but am installing firebase cli on the server, does not work))
+    -omega: 1 // cooked food consistently for 4 cycles, i think it's possiable to conitue this as a habit, if i stay consious.
