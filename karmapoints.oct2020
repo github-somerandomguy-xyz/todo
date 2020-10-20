@@ -6,7 +6,11 @@
     - alpha:0.25
     - beta: 0.5
     - omega: 0.5
-- 19:10:2020:
-    - aplha: 0.3 // did 1 lesson
+- 19.10.2020:
+    - alpha: 0.3 // did 1 lesson
     - beta: 0.25 // tried and read docs. couldn't proceed due to workspace reasons (moving laptop data, no poit to set up local env, and firebase does not auth when running from a workspace on a remote server (auth verification runs on localhost shit but am installing firebase cli on the server, does not work))
-    -omega: 1 // cooked food consistently for 4 cycles, i think it's possiable to conitue this as a habit, if i stay consious.
+    - omega: 1 // cooked food consistently for 4 cycles, i think it's possiable to conitue this as a habit, if i stay consious.
+- 20.10.2020:
+    - alpha: 0.4 // repeated 1 old lesson and did a 1 new lesson
+    - beta: 1 //deployed quickStartGuide for meetra on firebase
+    - omega: -0.3 to 0.2 // got free clothes hangers from outside, added more garbage to the clothes closet(but shirt hanger shortage is pretty annoying living day to day, having surpless of that reduces 1 worry about it(one of the core concepts is to not to worry about shit, i think)).
