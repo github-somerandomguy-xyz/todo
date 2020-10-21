@@ -1,3 +1,3 @@
-2020-10-20 Alpha:German: meet/beat German revision: min 2 new lessons:beakItDownToDiffTimesIfRequired: itr-1 2/4
-2020-10-20 Beta: freelance: meetra task auth:host firebase sample auth app: itr 3/4
-2020-10-19 omega: minimalizm: cleanup closet space:bag unwearable clothes: itr0 0/4
+2020-10-21 Alpha:German: meet/beat German revision: min 2 new lessons:beakItDownToDiffTimesIfRequired: itr-1 3/4
+2020-10-21 Beta: certification: finish up the free part of kubernetics tutotial : itr0 0/4
+2020-10-21 omega: minimalizm: cleanup closet space:bag unwearable clothes: itr0 0/4
