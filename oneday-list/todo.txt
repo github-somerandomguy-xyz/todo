@@ -1,3 +1,3 @@
-2020-10-25 Alpha:German: meet/beat German revision: min 2 new lessons:beakItDownToDiffTimesIfRequired: itr-1 4/4, badsound-0(postponing since 3-4 days,(only changing date))
-2020-10-25 Beta: certification: finish step 1 of aws certi journey : itr0 1/4
-2020-10-25 omega: minimalizm: cleanup closet space:throwaway obvious items garbage: itr0 2/4, badsound-0(postponing since 5-6 days (only changing date))
+2020-10-26 Alpha (borrowed Alphas of Beta): make_finance_checklist: and execute atleast one: itr0 0/4
+2020-10-26 Beta: freelance: meetra task auth:implement basic FE: itr 3/4
+2020-10-26 omega: minimalizm: cleanup closet space:throwaway obvious items garbage: itr0 2/4, badsound-0(postponing since 5-6 days (only changing date))
