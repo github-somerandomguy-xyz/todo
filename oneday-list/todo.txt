@@ -1,3 +1,3 @@
-2020-11-09 Alpha (borrowed Alphas of Beta): make_finance_checklist: n26/sendEmailToBank/o2Internetplan/IndianBankNRIAccount: itr0 1/4,
-2020-11-09 Beta: certification: aws/kubernetics
-2020-11-09 omega: minimalizm: cleanup clutter: throwaway garbage.
+2020-11-10 alpha: init-company: production-company- project five-forthyfive: focus on getting the product out, more than on the  paper-work involved.
+2020-11-09 Beta: certification: aws/kubernetics - finish one KU (karma unit of work) on aws certification journey.
+2020-11-09 omega: health: fix some prob: find a sholder pain repair doctor, prefarably a physeo-therapist.
